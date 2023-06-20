@@ -1,4 +1,5 @@
-Description:
+# Project description
+
 This Python GitHub project is focused on creating an end-to-end data pipeline that generates random data using Python, streams the data through AWS Kinesis, processes it using AWS Lambda, and stores the data in an AWS S3 Bucket. The primary purpose of this project is to demonstrate the seamless integration of these modern cloud technologies and showcase how they can be leveraged to easily create scalable and serverless data pipelines.
 
 
