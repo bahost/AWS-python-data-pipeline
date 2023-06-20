@@ -7,4 +7,3 @@ Key features of this project include:
 2. Utilizing AWS Kinesis to create a data stream that receives the generated data and ensures real-time processing with low latency.
 3. Implementing an AWS Lambda function to process the incoming data from the Kinesis stream, enabling custom transformations, filtering, or aggregation of the data.
 4. An AWS S3 Bucket for storing the processed data, making it readily available for analysis, visualization, or integration into other applications and services.
-5. Detailed documentation and examples on how to set up and configure all the necessary AWS resources, as well as guidance on deploying and testing the project.
